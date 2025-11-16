@@ -1,2 +1,2 @@
 # Spatiotemporal-Data-Fusion-Algorithms-of-Remote-Sensing
-If you have a new spatiotemporal fusion method of remote sensing, please contact me.
+If you have a new spatiotemporal fusion method of remote sensing, plz contact me.
