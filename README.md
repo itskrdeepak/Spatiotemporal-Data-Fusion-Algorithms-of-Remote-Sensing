@@ -4,4 +4,4 @@ kdcivil2020@gmail.com
 
 Update README
 
-Co-authored-by: <ce23resch01010@iith.ac.in>"
+Co-authored-by: <ce23resch01010@iith.ac.in>
